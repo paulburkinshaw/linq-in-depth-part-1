@@ -1,6 +1,6 @@
 # LINQ In-Depth Part 1
 
-This sample is the accompanying code for [LINQ In-Depth Part 1](http://understandingsoftware.co.uk/programming/linq-in-depth-part1/). 
+This sample is the accompanying code for [LINQ In-Depth Part 1](http://www.understandingsoftware.co.uk/2019/12/13/linq-in-depth-part1/). 
 <br>
 <br>
 There is a method for each of the three features in the article, and there are multiple queries for each using both fluent and query syntax which can be run by uncommenting the relevant code blocks.
